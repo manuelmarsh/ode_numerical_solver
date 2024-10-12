@@ -26,9 +26,9 @@ You can install the required libraries using pip:
 pip install numpy matplotlib
 ```
 ## Usage
--Define the ODE: Create a function that represents the derivative of the variable with respect to time.
--Choose a Time Array: Define the time points at which you want to compute the solution.
--Set Initial Conditions: Define the initial state of your system.
--Select a Method: Choose one of the available methods to solve the ODE.
--Call the Solver: Use the ode_solver function with the defined parameters.
+- Define the ODE: Create a function that represents the derivative of the variable with respect to time.
+- Choose a Time Array: Define the time points at which you want to compute the solution.
+- Set Initial Conditions: Define the initial state of your system.
+- Select a Method: Choose one of the available methods to solve the ODE.
+- Call the Solver: Use the ode_solver function with the defined parameters.
 
