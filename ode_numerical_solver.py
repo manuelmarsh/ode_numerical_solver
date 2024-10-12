@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 12 12:52:29 2024
-
 @author: Manuel Martini
 """
 import numpy as np  
